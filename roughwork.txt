@@ -11,7 +11,7 @@ Pillars
 3-4 fundementals of this game
 ...
 30 second gameplay description
-describe aht it like to play the essence of the game loop
+describe what its like to play the essence of the game loop
 ...
 Features points
 key selling points of your game
