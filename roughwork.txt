@@ -1,3 +1,5 @@
+[pl]Remeber to put your initials in square brackets at rthe start of each section
+
 Title
 insert team member names here
 
